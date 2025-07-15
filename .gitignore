@@ -1,0 +1,27 @@
+# Node.js / Frontend ignores
+node_modules/
+
+# Java / Maven / Backend ignores
+target/
+*.class
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Misc
+temp/
+tmp/
+*.tmp
+*.swp 
